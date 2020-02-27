@@ -29,3 +29,5 @@ def zapis(keys):
 
 with Listener(on_press=naciskasz) as listener:
     listener.join()
+
+
